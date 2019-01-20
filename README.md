@@ -15,6 +15,10 @@ Joomla! Custom Field to integrate Gist of GitHub into your Joomla articles
 ### Version 1.0.0 [2017-10-23]
 * **[Added]** Show Gist
 
+### Version 1.0.1 [2019-01-20]
+* **[Added]** Changes to upload plugin to the JED
+* **[Changed]** Language files
+
 * * *
 
 ## Copyright & License
