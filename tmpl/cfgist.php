@@ -17,4 +17,4 @@ if (!$field->value || $field->value == '-1')
 
 $value = $field->value;
 ?>
-<script src="https://gist.github.com/sergiois/<?php echo $value; ?>.js"></script>
+<script src="<?php echo $value; ?>.js"></script>

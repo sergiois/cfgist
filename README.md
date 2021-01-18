@@ -19,6 +19,9 @@ Joomla! Custom Field to integrate Gist of GitHub into your Joomla articles
 * **[Added]** Changes to upload plugin to the JED
 * **[Changed]** Language files
 
+### Version 1.0.2 [2021-01-18]
+* **[Fixed]** Fixed problem with the gist display. Thanks to [Paul](https://github.com/runette) for reported this [Issue](https://https://github.com/sergiois/cfgist/issues/1).
+
 * * *
 
 ## Copyright & License
